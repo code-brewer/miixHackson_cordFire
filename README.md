@@ -12,7 +12,7 @@ npm i
 ```
 
 ### 2. Compile Contract
-请修改`tronbox.js`填入/修改 自己的私钥
+请修改`tronbox.js`填入/修改 自己的私钥(否则提示： Error: Invalid private key provided )
 ```
 yarn run migrate
 ```
